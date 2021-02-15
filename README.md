@@ -3,7 +3,7 @@ An improvement upon the Linux utility sensors, providing min/max tracking, effic
 
 ## Installation
   better-sensors depends upon `libsensors` and, as such, only supports Linux  
-  To install better-sensors,
+  To install better-sensors,  
     1. Install `libsensors5` and `libsensors-dev` with your favorite package manager.
     2. Clone this repository.
     3. `cd better-sensors && cmake . && make`
