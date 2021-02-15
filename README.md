@@ -15,6 +15,6 @@ An improvement upon the Linux utility sensors, providing min/max tracking, effic
   
 ## Example
   `better-sensors --loop -t 65:75` can be used in order to achieve colored output and continuous execution where:  
-    - The temperature isn't colored if 65 > temp
-    - The temperature is orange if 65 <= temp < 75
-    - The temperature is red if temp >= 75
+    - The temperature isn't colored if 65 > temp  
+    - The temperature is orange if 65 <= temp < 75  
+    - The temperature is red if temp >= 75  
