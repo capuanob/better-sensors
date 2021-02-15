@@ -14,9 +14,9 @@ An improvement upon the Linux utility sensors, providing min/max tracking, effic
   - `better-sensors -h` for help and options. 
   
   ### Example
-  `better-sensors --loop -t 65:75`  
-   Will execute better-sensors in a continuous loop and print:
-    - standard-color text if temp < 65
-    - <span style="color:orange">orange/span> temperatures if 65 <= temp < 75
-    - <span style="color:red"> text</span> temperatures if 75 <= temp
-    
+    `better-sensors --loop -t 65:75` 
+     Will execute better-sensors in a continuous loop and print:
+      - standard-color text if temp < 65
+      - <span style="color:orange">orange/span> temperatures if 65 <= temp < 75
+      - <span style="color:red"> text</span> temperatures if 75 <= temp
+
