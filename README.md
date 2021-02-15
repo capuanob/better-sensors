@@ -3,10 +3,9 @@ An improvement upon the Linux utility sensors, providing min/max tracking, effic
 
 ## Installation
   better-sensors depends upon `libsensors` and, as such, only supports Linux
-  To install
-    - a
-    - b
-    - c
+  - a
+  - b 
+  - c
     
 ## Usage
   For ease of use, it is recommended to move the better-sensors binary from `bin/better-sensors` into your PATH.
