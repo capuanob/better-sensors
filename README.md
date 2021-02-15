@@ -3,7 +3,7 @@ An improvement upon the Linux utility sensors, providing min/max tracking, effic
 
 ## Installation
   better-sensors depends upon `libsensors` and, as such, only supports Linux
-  To install,
+  To install
     - a
     - b
     - c
