@@ -6,7 +6,7 @@ An improvement upon the Linux utility sensors, providing min/max tracking, effic
   
   To install:
     - `sudo apt-get install libsensors5 libsensors-dev`  
-    - Clone this repository
+    - Clone this repository  
     - `cd better-sensors && cmake . && make`
     
 ## Usage
